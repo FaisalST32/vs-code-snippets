@@ -16,6 +16,7 @@
 	// 	"description": "Log output to console"
 	// }
 		"Functional Component": {
+			"scope": "javascript,typescript,javascriptreact,typescriptreact",
 			"prefix": ["rfunc"],
 			"body": [
 				"import React from 'react';",
@@ -30,6 +31,6 @@
 				"return <div></div>;",
 				"};"
 				],
-			"description": "A for loop."
+			"description": "React Functional Component with material ui styles"
 		}
 }
