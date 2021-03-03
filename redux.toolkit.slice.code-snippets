@@ -23,7 +23,7 @@
 			"}",
 			"",
 			"const ${1:sliceName}Slice = createSlice({",
-			"  name: ${1:sliceName},",
+			"  name: sliceName,",
 			"  initialState: initialState,",
 			"  reducers: {",
 			"",
